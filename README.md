@@ -40,7 +40,6 @@ The interface is built using Gradio, allowing users to input text and receive pr
 
 ## Example Prompts
 
-- *My name is Sylvain and I work at Hugging Face in Brooklyn.*
 - *Albert Einstein was a physicist and he developed the theory of relativity.*
 - *Python is a programming language that I use daily.*
 
