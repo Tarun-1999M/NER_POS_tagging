@@ -1,8 +1,8 @@
-# NER and POS Tagging with BERT
+# NER and POS Tagging with DISTILBERT
 
 ![NER_POS_Tagging](https://huggingface.co/spaces/Tarun-1999M/NER_POS_tagging/resolve/main/ner_pos.png)
 
-This project showcases a fine-tuned BERT model that performs Named Entity Recognition (NER) and Part-of-Speech (POS) tagging. The model can identify various parts of speech in a sentence and recognize named entities, providing a deeper understanding of the sentence structure.
+This project showcases a fine-tuned DISTILBERT model that performs Named Entity Recognition (NER) and Part-of-Speech (POS) tagging. The model can identify various parts of speech in a sentence and recognize named entities, providing a deeper understanding of the sentence structure.
 
 ## Overview
 
