@@ -11,7 +11,7 @@ The model is trained to accurately identify parts of speech and named entities w
 
 ## Demo
 
-You can interact with the live demo [here](https://huggingface.co/spaces/Tarun-1999M/NER_POS_tagging).
+<a href="https://huggingface.co/spaces/Tarun-1999M/NER_POS_tagging" target="_blank">Click here to view the live demo</a>.
 
 ## How It Works
 
